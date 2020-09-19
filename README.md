@@ -11,3 +11,5 @@ By default the software username and password set to admin. You can later change
 You will have to register the product first by clicking on the botton right setting button. This comes with free 14 days trial period and after that you can request for activation code by filling in Name, Email Id and No. of Days. Activation code will shared over email. Charges are as low as 1$ per day.
 
 ALWAYS RUN THE APPLICATION IN ADMINISTRATIVE MODE
+
+Watch Video:  https://youtu.be/jBAc1DIFuMk
