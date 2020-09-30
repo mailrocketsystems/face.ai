@@ -1,6 +1,6 @@
 # face.ai
 
-Download: https://github.com/mailrocketsystems/face.ai/blob/master/face_ai_setupv1.0.exe
+Download: https://drive.google.com/file/d/1xT63FwQpwK2kzCsa7Jp75u15gZS_f323/view
 
 This is a Face Recognition UI software. You can use this software to enroll and recognize person. You can enroll as many person you want into the gallery and you can create unlimitied galleries. 
 
